@@ -82,4 +82,4 @@ MIT License – free to use with attribution.
 
 Abdiwahab Khalif Jama  
 Electrical & Electronics Engineer | AI for Energy Access  
-📧 your.email@example.com • 📞 +252-xxx-xxx-xxx
+
