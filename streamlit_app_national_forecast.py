@@ -5,7 +5,7 @@ import joblib
 st.set_page_config(page_title="Somalia National Load Forecast", layout="centered")
 st.title("🔋 Somalia National Load Forecasting Dashboard")
 
-model = joblib.load("national_load_forecast_model.pkl")
+model = joblib.load("national_load_forecast_model_compressed.pkl")
 
 st.markdown("Use the form below to simulate an hourly forecast for a region.")
 
